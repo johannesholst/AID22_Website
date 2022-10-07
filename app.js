@@ -3,7 +3,7 @@ var quotes = [
     'I think, therefore I am',
     'Time is money',
     'I came, I saw, I conquered',
-    'testing “When life gives you lemons, make lemonade',
+    'When life gives you lemons, make lemonade',
     'Practice makes perfect',
     'Show, dont tell',
     'Have no fear of perfection, you will never reach it',
