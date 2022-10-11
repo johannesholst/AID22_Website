@@ -14,11 +14,8 @@ function newQuote(){
     document.getElementById('quoteDisplay').innerHTML = quotes[randomNumber];
 }
 
-var btn = document.getElementById('btn');
-    colors = ['purple', 'yellow', 'orange', 'brown', 'black'];
-
 btn.addEventListener('click', function onClick() {
-  btn.style.backgroundColor = 'salmon';
+  btn.style.backgroundColor = 'purple';
   btn.style.color = 'white';
 
 });
